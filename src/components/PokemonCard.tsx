@@ -76,7 +76,7 @@ export const PokemonCard = ({ pokemon }: PokemonCardProps) => {
                     onFocus={() => import("@/pages/PokemonPage")}
                     className="hover:underline"
                 >
-                    Ver Detalles 
+                    Ver más
                 </Link>
             </footer>
         </article>
